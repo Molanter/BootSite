@@ -7,10 +7,18 @@ html{
 }
 footer{
     background-color: lightgreen;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
 }
 .carousel{
     margin-top: 70px;
 }
 .margin{
     margin-top: 50px;
+}
+.navbar {
+    width: 90%;
+    margin-left: 5%;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
 }
